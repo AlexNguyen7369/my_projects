@@ -1,0 +1,26 @@
+[
+  {
+    "id": 4,
+    "date": "2025-09-03",
+    "description": "lunch",
+    "amount": 20.0
+  },
+  {
+    "id": 2,
+    "date": "2025-09-04",
+    "description": "lunch",
+    "amount": 49.0
+  },
+  {
+    "id": 3,
+    "date": "2025-09-04",
+    "description": "dog",
+    "amount": 670.0
+  },
+  {
+    "id": 4,
+    "date": "2025-09-04",
+    "description": "fair tickets",
+    "amount": 80.0
+  }
+]
